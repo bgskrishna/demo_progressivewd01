@@ -29,7 +29,7 @@
         "sizes": "512x512"
       }],
   "start_url": "?homescreen=1",
-  "scope": "",
+  "scope": "https://bgskrishna.github.io/demo_progressivewd01/",
   "display": "fullscreen",
   "background_color": "#2196F3",
   "theme_color": "#2196F3"
